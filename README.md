@@ -12,5 +12,5 @@
 
 ## 调试方法
 - 调试：设置断点 + F5
-- 快速执行：安装`Code Runner`插件后，快捷键执行`Ctrl+Shift+N`
+- 快速执行：安装`Code Runner`插件后，快捷键执行`Ctrl+Shift+N`,本机的`Ctrl+Alt+N`
 ![](https://cdn.jsdelivr.net/gh/Orime112/picbed/img/20201228182334.png)
